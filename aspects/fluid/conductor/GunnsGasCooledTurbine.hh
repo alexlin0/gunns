@@ -209,3 +209,4 @@ class GunnsGasCooledTurbine : public GunnsFluidLink
         GunnsGasCooledTurbine& operator =(const GunnsGasCooledTurbine&);
 };
 /// @}
+#endif
